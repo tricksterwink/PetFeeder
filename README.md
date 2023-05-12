@@ -1,5 +1,5 @@
-# PetFeeder
-An IOT enabled pet feeder with a proximity-based feedback mechanism.
+
+# An IOT enabled pet feeder with a proximity-based feedback mechanism.
 Introduction:
 IoT pet feeder is one of the pet feeders that will be controlled by a mobile application through internet.  Now a days, everyone can have a pet at home without giving their full commitment to have a healthy pet. With this feeding machine, it will help pet owner to manage their pet diet wheel. When user is at home, it can be controlled by a mobile application through internet. If user is not at home, user can set the timer to feed their pet. To make sure that the food does not exceed ultrasonic sensor will active and detect the exact amount should be in the bowl.
 Methodology
